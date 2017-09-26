@@ -1,1 +1,1 @@
-# ZABAPGIT
+# Mass IDOC editing program
